@@ -1,0 +1,66 @@
+body {
+  padding: 40px;
+  background: #eee;
+  font-family: "Calibri", sans-serif;
+}
+
+.wrapper {
+  width: 860px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.heading h1 {
+  text-align: center;
+}
+.form {
+  width: 400px;
+  float: left;
+  margin-right: 20px;
+}
+input {
+  width: 380px;
+  margin-bottom: 5px;
+  padding: 12px 6px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.signature {
+  float: left;
+  width: 400px;
+  padding: 10px 20px;
+  background: #fff;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.logo {
+  color: #0171b9;
+  font-size: 16px;
+  font-weight: bold;
+}
+.address {
+  color: #0171b9;
+}
+#textName {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#textTitle {
+  font-style: italic;
+}
+
+.button {
+  display: flex;
+  border: rgba(0, 0, 0, 0) solid 1px;
+  justify-content: flex-end;
+}
+.eagle img {
+  width: 200px;
+}
+
+/* button {
+  margin: 8px 0px;
+  padding: 8px;
+  font-weight: bold;
+} */

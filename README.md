@@ -1,2 +1,2 @@
-# frtc-email-signature
+# frtc-email-block
 Created with CodeSandbox
