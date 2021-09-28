@@ -40,6 +40,8 @@ input {
 }
 .address {
   color: #0171b9;
+  font-size: 14px;
+  font-weight: normal;
 }
 #textName {
   font-weight: bold;
@@ -57,6 +59,13 @@ input {
 }
 .eagle img {
   width: 200px;
+  margin-bottom: 0px;
+}
+.ewu a {
+  line-height: -3px;
+  color: #a10022;
+  font-weight: bold;
+  font-size: 16px;
 }
 
 /* button {
